@@ -260,6 +260,10 @@ export type Voting = {
           {
             "name": "candidateAmount",
             "type": "u64"
+          },
+          {
+            "name": "candidateCount",
+            "type": "u64"
           }
         ]
       }
